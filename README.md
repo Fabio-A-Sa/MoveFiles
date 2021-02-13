@@ -1,46 +1,62 @@
-# Photo Organizer for Windows and Linux
+# Photo Organizer with Python and C++
 
-This repository contains all the exercises and assessments of the UC Programming Fundamentals, taught by [João Correia Lopes](https://web.fe.up.pt/~jlopes/doku.php/teach/fpro/index) [JCL] at [Integrated Master in Informatics and Computing Engineering](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=742) [MIEIC] at the [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/pt/web_page.Inicial) [FEUP]. <br/>
-
-<br/>
 <p align="center">
-  <img 
-       title = "FEUP logo"
-       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuoFGCRahdY0QX5gCJpTnHF29LV_TFPaoNQ&usqp=CAU" 
-       alt="FEUP Logo" 
-       />
+  <img width="460" height="300" src="https://i.pinimg.com/originals/b7/ba/38/b7ba3835f63380fbb822669f8f904f11.jpg">
 </p>
 
-## Here are several documents, namely:
+### Prerequisites
 
-### My Drafts <br/>
-Pieces of code for exercises and assessments, notes that I take during practical classes and other experiences using Pyhton language. It is an authentic disorganized notebook.<br/>
+What things you need to install the software:
 
-### Play - Enjoying the playground <br/>
-Varied exercises of easy, medium and difficult level, about the subject taught in the present week. They complement the weekly work developed during the practical classes. Available on [FPRO Play](https://fpro.fe.up.pt/play).<br/>
+```
+git clone https://github.com/Fabio-A-Sa/Photo-Organizer.git
+```
 
-### RE - Recitation and away weekly Evaluation <br/>
-Weekly work developed during the practical classes. There are always five exercises to do. Available on [FPRO Test](https://fpro.fe.up.pt/test). <br/>
+```
+Python 3.X <-- Python3
+pip install Pillow <-- Installing a Python Imaging Library
+pip install pyinstaller <-- For utility task in Windows
+```
 
-### ME - Practice for PEs<br/>
-Available on [FPRO Test](https://fpro.fe.up.pt/test). <br/>
+## Running the tests
 
-### CH - Challenges in Python<br/>
-The challenges are extra work for more advanced Python programmers that easily solve the regular exercises. Available on [Moodle](https://moodle.up.pt/course/view.php?id=1738). <br/>
+### Linux, Mac OS X, BSD and most OSes except Windows
+Turn script executable:
 
-### PE = Practical on computer Evaluation <br/>
-Individual programming assignments. Available on [FPRO Test](https://fpro.fe.up.pt/test).
+```
+chmod +x photo-organizer.py
+```
 
-<br/>
+Call script inside a folder with photos:
+
+```
+./photo-organizer.py .
+```
+
+### Windows
+
+To run a test, call the script inside a folder with photos.
+
+```
+python photo-organizer.py .
+```
+
+**For Windows in Context Menu:**
+
+1. To generate *photo-organizer.exe* file to run on Windows.
+
+```
+pyinstaller -w -F photo-organizer.py
+```
+
+2. Add the keys on Registry or run *photo-organizer.reg*.
+3. Copy .exe file on *C:\Program Files\Photo Organizer*
+4. Add *C:\Program Files\Photo Organizer* in the *Path* on Windows Environment Variable.
+
+## License
+
+This project is licensed under the [MIT License](something.com).<br/>
 
 
-***Bibliography:*** 
-
-Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers; [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/index.html)<br/>
-[FPRO Play/Test](https://fpro.fe.up.pt), site available only in FEUP's netwoork<br/>
-[Jupyter Notebooks](https://github.com/fpro-feup/notebooks), created by JCL for the theoretical lectures<br/>
-
-
-
-**@ Fábio Araújo de Sá** <br/>
-**2020/2021**
+@ Fábio Araújo de Sá <br/>
+2020/2021
