@@ -1,19 +1,12 @@
 # Imports
 
-import enable_extensions
+import extensions
 import os
 import shutil
 from datetime import datetime
 from PIL import Image
 
 DATETIME_EXIF_INFO_ID = 36867
-
-extensions =    {
-                "jpg" : "enable" ,
-                'png' : "enable" ,
-                'jpeg': "enable" ,
-                }
-
 
 def folder_path_from_photo_date(file):
     date = photo_shooting_date(file)
@@ -37,7 +30,8 @@ def make_logs (file, new_folder):
     with open("logs.txt", "a") as logs:
         now = datetime.now()
         time = now.strftime("%Y-%m-%d at %H:%M:%S")
-        logs.write("[{}] {} was moved to {} inside a folder\n".format(time, file, new_folder))
+        logs.write(' [{}] " {} "   was moved to folder   "{}"   inside of "{}"\n'
+                   .format(time, file, new_folder[5:], new_folder[:4]))
 
 def move_photo(file):
     new_folder = folder_path_from_photo_date(file)
@@ -48,9 +42,10 @@ def move_photo(file):
     shutil.move(file, new_folder + '/' + file)
 
 def organize():
+    enable_extensions = extensions.enable_extensions()
     photos = [
         filename for filename in os.listdir('.')
-        if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in extensions.keys() if extensions[ext] == "enable")
+        if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in enable_extensions.keys())
     ]
     for filename in photos:
         move_photo(filename)
