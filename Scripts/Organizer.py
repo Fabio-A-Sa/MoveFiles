@@ -1,3 +1,6 @@
+""" 
+
+"""
 import os
 import shutil
 from datetime import datetime
@@ -5,6 +8,7 @@ from PIL import Image
 
 
 class PhotoOrganizer:
+
     DATETIME_EXIF_INFO_ID = 36867
     extensions = ['jpg', 'jpeg', 'png']
 
@@ -38,7 +42,6 @@ class PhotoOrganizer:
         ]
         for filename in photos:
             self.move_photo(filename)
-
 
 PO = PhotoOrganizer()
 PO.organize()
