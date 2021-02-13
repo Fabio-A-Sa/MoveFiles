@@ -4,56 +4,50 @@
   <img width="460" height="300" src="https://i.pinimg.com/originals/b7/ba/38/b7ba3835f63380fbb822669f8f904f11.jpg">
 </p>
 
-### Prerequisites
+<br/>
+<br/>
 
-What things you need to install the software and all dependences:
+## Prerequisites
+
+You need to install the software and all dependences:
 
 ```
 git clone https://github.com/Fabio-A-Sa/Photo-Organizer.git <-- To add files in your own local repository
-```
 
-```
 Python 3.X <-- Python3
 pip install Pillow <-- Installing a Python Imaging Library
 pip install pyinstaller <-- For utility task in Windows
 ```
+<br/>
+<br/>
 
-## Running the tests
-
-### Linux, Mac OS X, BSD and most OSes except Windows
-Turn script executable:
-
-```
-chmod +x photo-organizer.py
-```
-
-Call script inside a folder with photos:
-
-```
-./photo-organizer.py .
-```
+## Running
+<br/>
 
 ### Windows
 
 To run a test, call the script inside a folder with photos.
 
 ```
-python photo-organizer.py .
+python3 organizer.py .
 ```
 
-**For Windows in Context Menu:**
+### Linux
 
-1. To generate *photo-organizer.exe* file to run on Windows.
+To run a test, call the script inside a folder with photos.
 
 ```
-pyinstaller -w -F photo-organizer.py
+pwd
+cd ..
+python organizer.py .
 ```
-
-2. Add the keys on Registry or run *photo-organizer.reg*.
-3. Copy .exe file on *C:\Program Files\Photo Organizer*
-4. Add *C:\Program Files\Photo Organizer* in the *Path* on Windows Environment Variable.
-
 <br/>
+<br/>
+<br/>
+
+
+
+
 
 ## License
 
