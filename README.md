@@ -6,10 +6,10 @@
 
 ### Prerequisites
 
-What things you need to install the software:
+What things you need to install the software and all dependences:
 
 ```
-git clone https://github.com/Fabio-A-Sa/Photo-Organizer.git
+git clone https://github.com/Fabio-A-Sa/Photo-Organizer.git <-- To add files in your own local repository
 ```
 
 ```
@@ -53,10 +53,13 @@ pyinstaller -w -F photo-organizer.py
 3. Copy .exe file on *C:\Program Files\Photo Organizer*
 4. Add *C:\Program Files\Photo Organizer* in the *Path* on Windows Environment Variable.
 
+<br/>
+
 ## License
 
 This project is licensed under the [MIT License](something.com).<br/>
-
+<br/>
+<br/>
 
 @ Fábio Araújo de Sá <br/>
 2020/2021
