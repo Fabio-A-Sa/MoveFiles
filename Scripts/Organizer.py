@@ -1,14 +1,19 @@
 # Imports
 
+import enable_extensions
 import os
 import shutil
 from datetime import datetime
 from PIL import Image
 
-
-
 DATETIME_EXIF_INFO_ID = 36867
-extensions = ['jpg', 'jpeg', 'png']
+
+extensions =    {
+                "jpg" : "enable" ,
+                'png' : "enable" ,
+                'jpeg': "enable" ,
+                }
+
 
 def folder_path_from_photo_date(file):
     date = photo_shooting_date(file)
@@ -21,7 +26,7 @@ def photo_shooting_date(file):
         info = photo._getexif()
         print(info)
         if info:
-            if DATETIME_EXIF_INFO_ID in info:
+            if DATETIME_EXIF_INFO_ID in info.keys():
                 date = info[DATETIME_EXIF_INFO_ID]
                 date = datetime.strptime(date, '%Y:%m:%d %H:%M:%S')
     if date is None:
@@ -45,7 +50,7 @@ def move_photo(file):
 def organize():
     photos = [
         filename for filename in os.listdir('.')
-        if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in extensions)
+        if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in extensions.keys() if extensions[ext] == "enable")
     ]
     for filename in photos:
         move_photo(filename)
