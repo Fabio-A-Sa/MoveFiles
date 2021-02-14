@@ -61,7 +61,7 @@ exif = {
           37522: '951268', 
           40963: 4160,                                  <--- Number of pixels (horizontal)
           41495: 2, 
-          271: 'HUAWEI',                                <--- Brand of smarthphone that take a photo
+          271: 'HUAWEI',                                <--- Brand of smarthphone that taken a photo
           283: 72.0, 
           34850: 2,
           41987: 0, 
@@ -71,7 +71,7 @@ exif = {
           272: 'ATU-L21',                               <--- Camera Model
        }
 ```
-
+To evaluate a photograph it was necessary to use the ```key "36867"``` and to evaluate a download to the ```key "36868" ```.
 
 ### Recursive Search
 
