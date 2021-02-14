@@ -1,4 +1,4 @@
 #soon
 
-def move (file):
+def move ():
     return "something"
