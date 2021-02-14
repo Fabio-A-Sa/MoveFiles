@@ -30,6 +30,9 @@ git clone https://github.com/Fabio-A-Sa/Photo-Organizer.git <-- To add files in 
 cd .\Photo-Organizer\Scripts\
 python3 organizer.py
 ```
+<p align="center">
+  <img src="./Images/Linux.png">
+</p>
 
 
 ## Motivation for script development
