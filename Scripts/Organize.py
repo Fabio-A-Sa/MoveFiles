@@ -1,7 +1,7 @@
 # Modules
 
-import Extensions
 import RecursiveSearch
+import AvailableExtensions
 import AvailableFiles
 import os
 import shutil
@@ -86,7 +86,7 @@ def organize (recursive_search, aprove, copy_files):
         print(RecursiveSearch.search(pwd, aprove, copy_files))
 
     sleep(5)
-    enable_extensions = Extensions.enable_extensions()
+    enable_extensions = AvailableExtensions.enabled_extensions()
     
     photos = [
         filename 

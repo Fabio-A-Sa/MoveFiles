@@ -7,10 +7,6 @@ def search (main_directory, extensions, copy):
     test = ["png", "jpg"]
     for extension in test:
         all_directories = all_directories + glob.glob(main_directory + "/**/*.{}".format(extension), recursive = True)
-    #all_directories = []
-    #for extension in test:
-    #all_directories = glob.glob(main_directory + "/**/*.png", recursive = True)
-    #    all_directories.append(current_directory)
 
     if copy:
         return copy_and_move (all_directories, main_directory)
