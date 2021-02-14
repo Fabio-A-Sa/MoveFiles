@@ -52,29 +52,23 @@ exif = photo._getexif()
 
 exif = {
           37377: 7.149, 
-          36867: '2020:10:18 12:33:53', <--- Creation Date
-          36868: '2021:02:06 01:05:42', <--- Modification Date
-          37378: 2.27, <--- Focal Distance
+          36867: '2020:10:18 12:33:53',                 <--- Creation Date
+          36868: '2021:02:06 01:05:42',                 <--- Modification Date
+          37378: 2.27,                                  <--- Focal Distance
           40961: 1, 
-          40962: 3120, <--- Number of pixels (vertical)
+          40962: 3120,                                  <--- Number of pixels (vertical)
           40965: 850, 
-          41991: 0, 
-          37520: '951268', 
-          37521: '951268', 
           37522: '951268', 
-          40963: 4160, <--- Number of pixels (horizontal)
-          258: (8, 8, 8), 
+          40963: 4160,                                  <--- Number of pixels (horizontal)
           41495: 2, 
-          271: 'HUAWEI', <--- Brand of smarthphone that take a photo
+          271: 'HUAWEI',                                <--- Brand of smarthphone that take a photo
           283: 72.0, 
-          42016: '7e9f6d2e276f26290000000000000000', 
           34850: 2,
           41987: 0, 
           305: 'ATU-L21 8.0.0.151(C33)', 
-          306: '2020:10:18 12:33:53', <--- 
-Last Access Date
+          306: '2020:10:18 12:33:53',                   <--- Last Access Date
           41994: 0, 
-          272: 'ATU-L21', <--- Camera Model
+          272: 'ATU-L21',                               <--- Camera Model
        }
 ```
 
