@@ -1,6 +1,6 @@
 # Modules
 
-import extensions
+import Extensions
 import os
 import shutil
 from datetime import datetime
@@ -9,7 +9,7 @@ from time import sleep, perf_counter
 
 # Functions
 
-def make_folder (file):
+def make_new_directory (file):
 
     # Function that makes a folder name, based on exif data, 
     # and a new directory inside a main year
@@ -29,7 +29,7 @@ def extract_date (file):
     photo = Image.open(file)
 
     if hasattr(photo, '_getexif'):
-        # Se puder extrair o exif
+        # If you can extract the exif
         
         info = photo._getexif()
         date_id = 36867
@@ -57,14 +57,14 @@ def make_log (file, new_folder):
 
         logs.write(' [{}]   " {} "   was moved to folder   "{}"   inside of   "{}"\n'
                    .format(time, file, new_folder[5:], new_folder[:4]))
-        sleep(1) 
+        
         logs.write('Current directory: {}\{}\{}\n'.format(cwd, new_folder[:4], new_folder[5:]))
         logs.write(" \n")
 
 
 def move_photo (file):
     
-    new_folder = make_folder (file)
+    new_folder = make_new_directory (file)
 
     if not os.path.exists(new_folder):
         os.makedirs(new_folder)
@@ -76,7 +76,7 @@ def move_photo (file):
 def organize ():
 
 
-    enable_extensions = extensions.enable_extensions()
+    enable_extensions = Extensions.enable_extensions()
     photos = [
         filename 
         for filename in os.listdir('.')
@@ -92,6 +92,6 @@ def organize ():
     t1 = perf_counter()
     time = round(t1 - t0, 2)
 
-    return time, moves
+    print('Success. {} files were moved and organized in {} seconds.'.format(moves, time))
 
 organize()

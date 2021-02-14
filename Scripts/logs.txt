@@ -1,81 +1,1602 @@
- [2021-02-14 at 12:33:10]        " IMG_20201018_121427.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+ [2021-02-14 at 17:53:13]   " 22.png "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_152704.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_152807.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_152808.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_152810.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_152814.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_152816.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_154455.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_154457.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_154458.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_155203.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_155458.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_155625.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_155659.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_162623.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_162649.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_162813.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_162816.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201016_163442.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:53:13]   " IMG_20201018_121427.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
 Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
  
- [2021-02-14 at 12:33:10]        " IMG_20201018_121432.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+ [2021-02-14 at 17:53:13]   " IMG_20201018_121432.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
 Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
  
- [2021-02-14 at 12:33:10]        " IMG_20201018_121435.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+ [2021-02-14 at 17:53:13]   " IMG_20201018_121435.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
 Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
  
- [2021-02-14 at 12:33:10]        " IMG_20201018_123353.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+ [2021-02-14 at 17:53:13]   " IMG_20201018_123353.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
 Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
  
- [2021-02-14 at 12:34:53]   " 16e0b5f8-3382-4181-bad9-1a605a02518f_l.jpg "   was moved to folder   "2021-02-11"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-11
+ [2021-02-14 at 17:54:33]   " IMG_20200929_110838.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:34:53]   " 640c9a85-4287-441b-b5b4-f3dffbaaf948_l.jpg "   was moved to folder   "2021-02-11"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-11
+ [2021-02-14 at 17:54:33]   " IMG_20200929_110845.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:34:53]   " 658ee66c-02ec-4971-ad19-73850be40584_l.jpg "   was moved to folder   "2021-02-11"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-11
+ [2021-02-14 at 17:54:33]   " IMG_20200929_110858.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:34:53]   " 689444a2-aee3-4047-a8b3-44cbd9f827ae.jpg "   was moved to folder   "2021-02-11"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-11
+ [2021-02-14 at 17:54:33]   " IMG_20200929_110901.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:34:53]   " 6f78c4a7-53df-44de-a265-fb01938b2dfb_l.jpg "   was moved to folder   "2021-02-11"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-11
+ [2021-02-14 at 17:54:33]   " IMG_20200929_110903.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:34:53]   " download.jpg "   was moved to folder   "2021-02-11"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-11
+ [2021-02-14 at 17:54:33]   " IMG_20200929_110941.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:37:56]   " 150-1501364_geocaching-signal-the-frog.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20200929_110955.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:37:57]   " 1_8mpWApzQD5gZZlnYYUkbcA.png "   was moved to folder   "2021-02-09"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-09
+ [2021-02-14 at 17:54:33]   " IMG_20200929_111003.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:37:58]   " 262-2628140_geocaching-earthcache.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20200929_111004.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:37:59]   " Cache-Earth.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20200929_111040.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:38:00]   " Cache-Letter.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20200929_111041.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:38:01]   " Cache-Mistério.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20200929_111123.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:38:02]   " Cache-Multi.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20200929_111123_1.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:38:03]   " Cache-Virtual.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20200929_111129.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:38:04]   " Calem.jpg "   was moved to folder   "2021-02-10"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-10
+ [2021-02-14 at 17:54:33]   " IMG_20200929_111130.jpg "   was moved to folder   "2020-09-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-29
  
- [2021-02-14 at 12:38:05]   " DcDLCXwVAAAu-Qs.jpg "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20200930_135735.jpg "   was moved to folder   "2020-09-30"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-09-30
  
- [2021-02-14 at 12:38:06]   " EXEMPLO.jpg "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20201005_143010.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
  
- [2021-02-14 at 12:38:07]   " Favicon-Main.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20201005_143015.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
  
- [2021-02-14 at 12:38:08]   " Imagem1.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20201005_143435.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
  
- [2021-02-14 at 12:38:09]   " Logo-Main.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20201005_143439.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
  
- [2021-02-14 at 12:38:10]   " Signal-Main.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20201005_143930.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
  
- [2021-02-14 at 12:38:11]   " Unknown.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20201005_144300.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
  
- [2021-02-14 at 12:38:12]   " unnamed.png "   was moved to folder   "2021-02-08"   inside of   "2021"
-Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-08
+ [2021-02-14 at 17:54:33]   " IMG_20201005_144314.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201005_144319.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201005_144324.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201005_154847.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201005_154848.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201005_154852.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201005_181607.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201005_181611.jpg "   was moved to folder   "2020-10-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-05
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201006_074734.jpg "   was moved to folder   "2020-10-06"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-06
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_082725.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_082726.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_082848.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_082909.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_082910.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_082912.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_082917.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_083013.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_083016.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_083018.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_083027.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_083035.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_083038.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_083042.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_084622.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_084627.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_084629.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_084749.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_093813.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_093819.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201007_093822.jpg "   was moved to folder   "2020-10-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-07
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201008_155047.jpg "   was moved to folder   "2020-10-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-08
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201008_155100.jpg "   was moved to folder   "2020-10-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-08
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201009_122446.jpg "   was moved to folder   "2020-10-09"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-09
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201009_122450.jpg "   was moved to folder   "2020-10-09"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-09
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201009_122458.jpg "   was moved to folder   "2020-10-09"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-09
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201010_135840.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201010_144933.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201010_144938.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201010_144944.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201010_144955.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201010_144959.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201010_145339.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201010_145345.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201010_145403.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201010_145420.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:33]   " IMG_20201010_145424.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145433.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145441.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145454.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145513.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145515.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145551.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145553.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145556.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145612.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145849.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145858.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_145906.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150011.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150041.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150102.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150118.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150131.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150517.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150630.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150634.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150636.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150730.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150733.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150735.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150737.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_150857.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_151251.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_151316.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_151446.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_151450.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_151452.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_151505.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_153026.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_153140.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_153332.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_153351.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_153354.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_154037.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_154039.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_154042.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_154122.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_154214.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_154217.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_154843.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_160036.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_160038.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_160041.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_160052.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_160146.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_160149.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161027.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161131.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161137.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161140.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161205.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161212.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161230.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161236.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161252.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161304.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161306.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161309.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161312.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161314.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161322.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161333.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161341.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161359.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:34]   " IMG_20201010_161419.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161426.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161432.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161448.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161457.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161500.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161506.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161511.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161514.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161521.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161554.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161558.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161630.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161632.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161648.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161655.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161730.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_161732.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_163742.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_163746.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_163802.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_163810.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_163813.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_163816.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_163819.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_163920.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_163921.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_164617.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_164623.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_164626.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_164939.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_164946.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_165000.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_165630.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_165635.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_165643.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_165805.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_165807.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_165810.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_165920.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_165930.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170005.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170008.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170125.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170126.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170128.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170132.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170424.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170513.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170517.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170524.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170541.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_170549.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_171030.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_171035.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_171043.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_171142.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_171145.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_171148.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_171653.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_171810.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_171813.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_172204.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_173720.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_173722.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_173724.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_174341.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_174344.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_174353.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_174404.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_174410.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:35]   " IMG_20201010_174418.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_174449.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_175634.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_175638.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_175651.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_175653.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_175858.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_175901.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_175913.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_175940.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_180023.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_180048.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_180052.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_180105.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_180108.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181632.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181634.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181636.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181722.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181807.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181816.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181823.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181825.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181829.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181904.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181907.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_181923.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_182929.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_182931.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_182937.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_182941.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_182946.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_182949.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_182952.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_183345.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_183436.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_183446.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_183449.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201010_184712.jpg "   was moved to folder   "2020-10-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-10
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201012_091357.jpg "   was moved to folder   "2020-10-12"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-12
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201012_093444.jpg "   was moved to folder   "2020-10-12"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-12
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201012_101700.jpg "   was moved to folder   "2020-10-12"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-12
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201012_102043.jpg "   was moved to folder   "2020-10-12"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-12
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201012_111503.jpg "   was moved to folder   "2020-10-12"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-12
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201012_111509.jpg "   was moved to folder   "2020-10-12"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-12
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201012_111511.jpg "   was moved to folder   "2020-10-12"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-12
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201012_112949.jpg "   was moved to folder   "2020-10-12"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-12
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201012_112951.jpg "   was moved to folder   "2020-10-12"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-12
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201012_115053.jpg "   was moved to folder   "2020-10-12"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-12
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201012_130110.jpg "   was moved to folder   "2020-10-12"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-12
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_170921.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_170922.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_170924.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_170930.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_170940.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_171123.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_171929.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_171932.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_171943.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_172725.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_182108.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_182200.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201013_182226.jpg "   was moved to folder   "2020-10-13"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-13
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201014_090257.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201014_090259.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:36]   " IMG_20201014_090445.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201014_090446.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201014_090538.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201014_092953.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201014_093002.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201014_104441.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201014_114620.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201014_114621.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201014_114711.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201014_125348.jpg "   was moved to folder   "2020-10-14"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-14
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201015_090658.jpg "   was moved to folder   "2020-10-15"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-15
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201015_110505.jpg "   was moved to folder   "2020-10-15"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-15
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201015_122437.jpg "   was moved to folder   "2020-10-15"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-15
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201015_125715.jpg "   was moved to folder   "2020-10-15"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-15
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201015_130020.jpg "   was moved to folder   "2020-10-15"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-15
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201015_130722.jpg "   was moved to folder   "2020-10-15"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-15
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201015_131027.jpg "   was moved to folder   "2020-10-15"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-15
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_152704.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_152807.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_152808.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_152810.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_152814.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_152816.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_154455.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_154457.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_154458.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_155203.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_155458.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_155622.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_155625.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_155659.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_162623.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_162649.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_162813.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_162816.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201016_163442.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201017_161022.jpg "   was moved to folder   "2020-10-17"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-17
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_121427.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_121428.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_121431.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_121432.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_121435.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_122723.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_122724.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_123353.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_123354.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_123402.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_123403.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_123902.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_123904.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_123905.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_124524.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_124719.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_124723.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_124735.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_124755.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:37]   " IMG_20201018_124848.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_124852.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_124859.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_124929.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_124939.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_124953.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125000.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125002.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125030.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125032.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125040.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125041.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125125.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125137.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125223.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125226.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125252.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125341.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125343.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125344.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125349.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125358.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125359.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125516.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125517.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125519.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125521.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125529.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125530.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125612.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125613.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125619.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125620.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125656.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125658.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_125703.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_200444.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201018_200450.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-18
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_114635.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_114636.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_120136.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_120137.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_120406.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_120407.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_125817.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_125819.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_213557.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_213559.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_213601.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_213615.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_213618.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_213624.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_213630.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201019_213645.jpg "   was moved to folder   "2020-10-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-19
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201021_084941.jpg "   was moved to folder   "2020-10-21"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-21
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201021_084947.jpg "   was moved to folder   "2020-10-21"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-21
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201021_105601.jpg "   was moved to folder   "2020-10-21"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-21
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201022_124202.jpg "   was moved to folder   "2020-10-22"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-22
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201023_145135.jpg "   was moved to folder   "2020-10-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-23
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201023_145136.jpg "   was moved to folder   "2020-10-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-23
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201023_145138.jpg "   was moved to folder   "2020-10-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-23
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201023_145151.jpg "   was moved to folder   "2020-10-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-23
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201023_145151_1.jpg "   was moved to folder   "2020-10-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-23
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201024_153319.jpg "   was moved to folder   "2020-10-24"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-24
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201024_153324.jpg "   was moved to folder   "2020-10-24"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-24
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201024_153333.jpg "   was moved to folder   "2020-10-24"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-24
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201024_153356.jpg "   was moved to folder   "2020-10-24"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-24
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201024_153400.jpg "   was moved to folder   "2020-10-24"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-24
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201024_153402.jpg "   was moved to folder   "2020-10-24"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-24
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201024_153404.jpg "   was moved to folder   "2020-10-24"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-24
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201024_153406.jpg "   was moved to folder   "2020-10-24"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-24
+ 
+ [2021-02-14 at 17:54:38]   " IMG_20201024_153408.jpg "   was moved to folder   "2020-10-24"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-24
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201024_161406.jpg "   was moved to folder   "2020-10-24"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-24
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201024_161408.jpg "   was moved to folder   "2020-10-24"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-24
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201027_202658.jpg "   was moved to folder   "2020-10-27"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-27
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201029_110102.jpg "   was moved to folder   "2020-10-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-29
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201029_110103.jpg "   was moved to folder   "2020-10-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-29
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201029_110104.jpg "   was moved to folder   "2020-10-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-29
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201029_175724.jpg "   was moved to folder   "2020-10-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-29
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201029_175725.jpg "   was moved to folder   "2020-10-29"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-29
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201106_193758.jpg "   was moved to folder   "2020-11-06"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-06
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201107_110807.jpg "   was moved to folder   "2020-11-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-07
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201107_110821.jpg "   was moved to folder   "2020-11-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-07
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201107_110822.jpg "   was moved to folder   "2020-11-07"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-07
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201108_223912.jpg "   was moved to folder   "2020-11-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-08
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201108_223914.jpg "   was moved to folder   "2020-11-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-08
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201108_223944.jpg "   was moved to folder   "2020-11-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-08
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201108_223945.jpg "   was moved to folder   "2020-11-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-08
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201108_224024.jpg "   was moved to folder   "2020-11-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-08
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201108_224025.jpg "   was moved to folder   "2020-11-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-08
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201108_224028.jpg "   was moved to folder   "2020-11-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-08
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201108_224029.jpg "   was moved to folder   "2020-11-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-08
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201110_205910.jpg "   was moved to folder   "2020-11-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-10
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201110_210616.jpg "   was moved to folder   "2020-11-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-10
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201116_120056.jpg "   was moved to folder   "2020-11-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-16
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201116_120101.jpg "   was moved to folder   "2020-11-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-16
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201116_120102.jpg "   was moved to folder   "2020-11-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-16
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201118_103702.jpg "   was moved to folder   "2020-11-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-18
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201118_103704.jpg "   was moved to folder   "2020-11-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-18
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201118_103706.jpg "   was moved to folder   "2020-11-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-18
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201118_115828.jpg "   was moved to folder   "2020-11-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-18
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201118_115830.jpg "   was moved to folder   "2020-11-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-18
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201118_115846.jpg "   was moved to folder   "2020-11-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-18
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201118_115848.jpg "   was moved to folder   "2020-11-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-18
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201118_115910.jpg "   was moved to folder   "2020-11-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-18
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201118_122108.jpg "   was moved to folder   "2020-11-18"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-18
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201119_090445.jpg "   was moved to folder   "2020-11-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-19
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201119_090446.jpg "   was moved to folder   "2020-11-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-19
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201119_095510.jpg "   was moved to folder   "2020-11-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-19
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201119_095511.jpg "   was moved to folder   "2020-11-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-19
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201119_110803.jpg "   was moved to folder   "2020-11-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-19
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201119_110805.jpg "   was moved to folder   "2020-11-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-19
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201119_110807.jpg "   was moved to folder   "2020-11-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-19
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201119_112458.jpg "   was moved to folder   "2020-11-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-19
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201119_112459.jpg "   was moved to folder   "2020-11-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-19
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201119_115900.jpg "   was moved to folder   "2020-11-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-19
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201119_115901.jpg "   was moved to folder   "2020-11-19"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-19
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201123_121701.jpg "   was moved to folder   "2020-11-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-23
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201123_121703.jpg "   was moved to folder   "2020-11-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-23
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201123_123056.jpg "   was moved to folder   "2020-11-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-23
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201123_123057.jpg "   was moved to folder   "2020-11-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-23
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201123_123237.jpg "   was moved to folder   "2020-11-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-23
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201123_123238.jpg "   was moved to folder   "2020-11-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-23
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201123_132944.jpg "   was moved to folder   "2020-11-23"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-23
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201125_085308.jpg "   was moved to folder   "2020-11-25"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-25
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201125_085310.jpg "   was moved to folder   "2020-11-25"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-25
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201125_161500.jpg "   was moved to folder   "2020-11-25"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-25
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201125_161501.jpg "   was moved to folder   "2020-11-25"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-25
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201125_200557.jpg "   was moved to folder   "2020-11-25"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-25
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201125_200605.jpg "   was moved to folder   "2020-11-25"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-25
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201125_200611.jpg "   was moved to folder   "2020-11-25"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-11-25
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201202_134955.jpg "   was moved to folder   "2020-12-02"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-02
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201203_195601.jpg "   was moved to folder   "2020-12-03"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-03
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201203_195604.jpg "   was moved to folder   "2020-12-03"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-03
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201205_071531.jpg "   was moved to folder   "2020-12-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-05
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201205_071532.jpg "   was moved to folder   "2020-12-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-05
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201205_171820.jpg "   was moved to folder   "2020-12-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-05
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201205_171849.jpg "   was moved to folder   "2020-12-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-05
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201205_171855.jpg "   was moved to folder   "2020-12-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-05
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201205_171925.jpg "   was moved to folder   "2020-12-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-05
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201205_171951.jpg "   was moved to folder   "2020-12-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-05
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201205_171956.jpg "   was moved to folder   "2020-12-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-05
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201205_172012.jpg "   was moved to folder   "2020-12-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-05
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201205_172015.jpg "   was moved to folder   "2020-12-05"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-05
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201208_123939.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:39]   " IMG_20201208_184239.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184245.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184254.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184307.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184314.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184324.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184330.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184340.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184351.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184357.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184400.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184413.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184415.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184420.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184422.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184427.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184429.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184436.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184438.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184442.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184444.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184518.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184524.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184527.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184546.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184550.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184558.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184600.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184605.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184606.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184613.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184614.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184708.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184710.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184714.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201208_184715.jpg "   was moved to folder   "2020-12-08"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-08
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201210_103023.jpg "   was moved to folder   "2020-12-10"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-10
+ 
+ [2021-02-14 at 17:54:40]   " IMG_20201211_225350.jpg "   was moved to folder   "2020-12-11"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-12-11
  
