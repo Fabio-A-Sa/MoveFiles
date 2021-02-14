@@ -5,7 +5,7 @@ import os
 import shutil
 from datetime import datetime
 from PIL import Image
-from time import sleep
+from time import sleep, perf_counter
 
 # Functions
 
@@ -74,6 +74,8 @@ def move_photo (file):
 
 
 def organize ():
+
+
     enable_extensions = extensions.enable_extensions()
     photos = [
         filename 
@@ -82,7 +84,14 @@ def organize ():
         if enable_extensions[ext] == "enable")
     ]
 
+    moves = 0
+    t0 = perf_counter()
     for filename in photos:
         move_photo(filename)
+        moves += 1
+    t1 = perf_counter()
+    time = round(t1 - t0, 2)
+
+    return time, moves
 
 organize()
