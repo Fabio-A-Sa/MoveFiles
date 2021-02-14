@@ -57,12 +57,12 @@ def make_log (file, new_folder):
 
         logs.write(' [{}]   " {} "   was moved to folder   "{}"   inside of   "{}"\n'
                    .format(time, file, new_folder[5:], new_folder[:4]))
-        sleep(1)
+        sleep(1) 
         logs.write('Current directory: {}\{}\{}\n'.format(cwd, new_folder[:4], new_folder[5:]))
         logs.write(" \n")
 
 
-def move_photo(file):
+def move_photo (file):
     
     new_folder = make_folder (file)
 
@@ -73,7 +73,7 @@ def move_photo(file):
     shutil.move(file, new_folder + '/' + file)
 
 
-def organize():
+def organize ():
     enable_extensions = extensions.enable_extensions()
     photos = [
         filename 
