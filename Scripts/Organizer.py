@@ -54,7 +54,7 @@ def make_log (file, new_folder):
 
     now = datetime.now()
     # After move file, gets a new directory
-    cwd = os.getcwd() 
+    pwd = os.getcwd() 
     time = now.strftime("%Y-%m-%d at %H:%M:%S")
     
     with open("Logs.txt", "a") as logs:
@@ -63,7 +63,7 @@ def make_log (file, new_folder):
         logs.write('[{}]   " {} "   was moved to folder   "{}"   inside of   "{}"\n'
                    .format(time, file, new_folder[5:], new_folder[:4]))
         
-        logs.write('Current directory: {}\{}\{}\n'.format(cwd, new_folder[:4], new_folder[5:]))
+        logs.write('Current directory: {}\{}\{}\n'.format(pwd, new_folder[:4], new_folder[5:]))
         logs.write(" \n")
 
 
@@ -78,7 +78,10 @@ def move_photo (file):
     shutil.move(file, new_folder + '/' + file)
 
 
-def organize ():
+def organize (recursive_search, aprove):
+
+    if (recursive_search):
+        RecursiveSearch.move()
 
     enable_extensions = Extensions.enable_extensions()
     photos = [
@@ -99,6 +102,6 @@ def organize ():
     print('Success. {} files were moved and organized in {} seconds.'.format(moves, time))
 
 recursive_search = False
-aprove = AvailableFiles()
+aprove = AvailableFiles.display()
 
-organize(recursive_search, aprove)
+organize (recursive_search, aprove)

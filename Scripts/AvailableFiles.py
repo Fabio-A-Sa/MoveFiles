@@ -1,9 +1,10 @@
 available_files =   {
 
                     "photos": "enable",
-                    "text" : "enable", 
+                    "text" : "disable", 
                     "web" : "disable"
                     
                     }
 
-def 
+def display():
+    return available_files
