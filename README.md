@@ -40,9 +40,21 @@ Besides that, the fact that it is responsible for dozens of geocaches spread acr
 
 ## Fundamentals
 
+### Metadata and exif
+
+teste
 
 
+### Recursive Search
 
+teste
+
+
+### Logs
+
+teste
+
+<br/>
 ## License
 
 This project is licensed under the [MIT License](https://github.com/Fabio-A-Sa/Photo-Organizer/blob/main/Licence).<br/>
