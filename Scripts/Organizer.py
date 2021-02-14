@@ -5,6 +5,7 @@ import os
 import shutil
 from datetime import datetime
 from PIL import Image
+from time import sleep
 
 # Functions
 
@@ -54,8 +55,9 @@ def make_log (file, new_folder):
     
     with open("Logs.txt", "a") as logs:
 
-        logs.write(' [{}]        " {} "   was moved to folder   "{}"   inside of   "{}"\n'
+        logs.write(' [{}]   " {} "   was moved to folder   "{}"   inside of   "{}"\n'
                    .format(time, file, new_folder[5:], new_folder[:4]))
+        sleep(1)
         logs.write('Current directory: {}\{}\{}\n'.format(cwd, new_folder[:4], new_folder[5:]))
         logs.write(" \n")
 
@@ -84,5 +86,3 @@ def organize():
         move_photo(filename)
 
 organize()
-
-
