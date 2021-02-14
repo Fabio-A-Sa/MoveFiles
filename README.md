@@ -30,17 +30,24 @@ git clone https://github.com/Fabio-A-Sa/Photo-Organizer.git <-- To add files in 
 cd .\Photo-Organizer\Scripts\
 python3 organizer.py
 ```
-<br/>
-<br/>
-<br/>
 
- 
+
+## Running
+
+To run a script, in Linux or Windows, call the script inside a folder with photos using terminal.
+
+```
+git clone https://github.com/Fabio-A-Sa/Photo-Organizer.git <-- To add files in your own local repository
+cd .\Photo-Organizer\Scripts\
+python3 organizer.py
+```
+
 
 
 
 ## License
 
-This project is licensed under the [MIT License](something.com).<br/>
+This project is licensed under the [MIT License](https://github.com/Fabio-A-Sa/Photo-Organizer/blob/main/Licence).<br/>
 <br/>
 @ Fábio Araújo de Sá <br/>
 2020/2021
