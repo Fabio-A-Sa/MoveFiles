@@ -57,7 +57,8 @@ def organize():
     enable_extensions = extensions.enable_extensions()
     photos = [
         filename for filename in os.listdir('.')
-        if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in enable_extensions.keys())
+        if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in enable_extensions.keys() 
+        if enable_extensions[ext] == "enable")
     ]
     for filename in photos:
         move_photo(filename)
