@@ -27,15 +27,18 @@ all_extensions =    {
 
 def make_extensions ():
 
-    # Filter [extensions] by file's status in dictionary
+    # Filter [extensions] by files and extensions status in dictionary
 
     files = display()
-    extensions = []
+    all_ext = []
 
     for type, extensions in respective_extension.items():
         if type in files:
             for extension in extensions:
-                if extension not in ext:
-                    ext.append(extension)
+                if (extension not in all_ext) and (all_extensions[extension] == "enabled"):
+                    all_ext.append(extension)
 
-    return extensions
+    return all_ext
+
+
+print(make_extensions())

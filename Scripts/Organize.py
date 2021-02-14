@@ -78,7 +78,7 @@ def move_photo (file):
     shutil.move(file, new_folder + '/' + file)
 
 
-def organize (recursive_search, aprove, copy_files):
+def organize (recursive_search, extensions, copy_files):
 
     pwd = os.getcwd() 
 
@@ -86,13 +86,11 @@ def organize (recursive_search, aprove, copy_files):
         print(RecursiveSearch.search(pwd, aprove, copy_files))
 
     sleep(5)
-    extensions = Extensions.enabled_extensions()
     
     photos = [
         filename 
         for filename in os.listdir('.')
-        if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in extensions
-    ]
+        if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in extensions)]
 
     moves = 0
     t0 = perf_counter()
@@ -107,6 +105,6 @@ def organize (recursive_search, aprove, copy_files):
 
 recursive_search = True
 move_without_copy = True
-aprove = AvailableFiles.display()
+extensions = Extensions.make_extensions()
 
-organize (recursive_search, aprove, move_without_copy)
+organize (recursive_search, extensions, move_without_copy)

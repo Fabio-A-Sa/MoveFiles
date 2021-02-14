@@ -4,8 +4,8 @@ available_files =   {
 
                     "photos": "enabled", 
                     "text" : "disabled",  
-                    "web" : "enabled",      
-                    "code" : "enabled",    
+                    "web" : "disabled",      
+                    "code" : "disabled",    
                     
                     }
 
