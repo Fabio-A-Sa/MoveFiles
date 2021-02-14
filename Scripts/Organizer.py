@@ -1,5 +1,4 @@
-
-# Import modules
+# Modules
 
 import extensions
 import os
@@ -7,29 +6,45 @@ import shutil
 from datetime import datetime
 from PIL import Image
 
-DATETIME_EXIF_INFO_ID = 36867
+# Functions
 
-def folder_path_from_photo_date(file):
-    date = photo_shooting_date(file)
-    return date.strftime('%Y') + '/' + date.strftime('%Y-%m-%d')
+def make_folder (file):
 
-def photo_shooting_date(file):
+    # Function that makes a folder name, based on exif data, 
+    # and a new directory inside a main year
 
-    date = "nothing"
+    date = extract_date (file)
+    new_directory = date.strftime('%Y') + '/' + date.strftime('%Y-%m-%d')
+    
+    return new_directory
+
+
+def extract_date (file):
+
+    # Function that extracts files' date using exif and Pillow module.
+    # Converts in future folder-structure date
+
+    date = "unknown"
     photo = Image.open(file)
 
-    if hasattr(photo, '_getexif'):
+
+    if hasattr(photo, '_getexif') 
+        # Se puder extrair o exif
+        
         info = photo._getexif()
-        print(info)
-        if info:
-            if DATETIME_EXIF_INFO_ID in info.keys():
-                date = info[DATETIME_EXIF_INFO_ID]
+        date_id = 36867
+        
+        if info != None:
+            # if
+            if date_id in info.keys():
+                date = info[date_id]
                 date = datetime.strptime(date, '%Y:%m:%d %H:%M:%S')
 
-    if type(date) == str:
+    if type(date) is str:
         date = datetime.fromtimestamp(os.path.getmtime(file))
 
     return date
+
 
 def make_log (file, new_folder):
 
@@ -46,24 +61,28 @@ def make_log (file, new_folder):
 
 
 def move_photo(file):
-    new_folder = folder_path_from_photo_date(file)
+    
+    new_folder = make_folder (file)
+
     if not os.path.exists(new_folder):
         os.makedirs(new_folder)
         
     make_log (file, new_folder)   
     shutil.move(file, new_folder + '/' + file)
 
+
 def organize():
     enable_extensions = extensions.enable_extensions()
     photos = [
-        filename for filename in os.listdir('.')
+        filename 
+        for filename in os.listdir('.')
         if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in enable_extensions.keys() 
         if enable_extensions[ext] == "enable")
     ]
+
     for filename in photos:
         move_photo(filename)
 
 organize()
-
 
 
