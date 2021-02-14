@@ -27,8 +27,7 @@ def extract_date (file):
     date = "unknown"
     photo = Image.open(file)
 
-
-    if hasattr(photo, '_getexif') 
+    if hasattr(photo, '_getexif'):
         # Se puder extrair o exif
         
         info = photo._getexif()
@@ -40,7 +39,8 @@ def extract_date (file):
                 date = info[date_id]
                 date = datetime.strptime(date, '%Y:%m:%d %H:%M:%S')
 
-    if type(date) is str:
+    if date == "unknown":
+        # Date has not changed, use the modified date by os.path.getmtime
         date = datetime.fromtimestamp(os.path.getmtime(file))
 
     return date
