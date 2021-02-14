@@ -80,6 +80,7 @@ def photo_shooting_date(file):
 
     if type(date) == str:
         date = datetime.fromtimestamp(os.path.getmtime(file))
+        
     return date
 
 def make_log (file, new_folder):
