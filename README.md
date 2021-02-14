@@ -35,10 +35,12 @@ python3 organizer.py
 ## Motivation for script development
 
 Since I am involved in an activity that implies the manipulation of hundreds of photos and other files, the [Geocaching](https://www.geocaching.com/play/search), I needed to implement a Python script to streamline the photo selection and sharing process. Therefore, uploading to my gallery on the official hobby website, which already has more than 25,000 photos, becomes faster. <br/>
-Besides that, the fact that it is responsible for dozens of geocaches spread across Portugal and Spain, which require web pages in HTML, Javascript and CSS, made this project increased to the ``.html`` ``.css`` and ``.js`` extensions in addition to those already implemented ``.jpg`` ``.png`` ``.jpeg``  and  ``.txt`` files.
+Besides that, the fact that I am responsible for dozens of websites spread across Portugal and Spain, which require HTML, JavaScript and CSS, made this project increased to the ``.html`` ``.js`` and ``.css`` extensions in addition to those already implemented ``.jpg`` ``.png`` ``.jpeg``  and  ``.txt`` files. 
+
+<br/>
 
 
-## Fundamentals
+# Fundamentals
 
 ### Metadata and exif
 
