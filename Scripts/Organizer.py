@@ -1,6 +1,8 @@
 # Modules
 
 import Extensions
+import RecursiveSearch
+import AvailableFiles
 import os
 import shutil
 from datetime import datetime
@@ -29,13 +31,14 @@ def extract_date (file):
     photo = Image.open(file)
 
     if hasattr(photo, '_getexif'):
-        # If you can extract the exif
+        # If it is possible to extract exit data
         
         info = photo._getexif()
         date_id = 36867
         
         if info != None:
-            # if
+            # If exif contains data to search
+
             if date_id in info.keys():
                 date = info[date_id]
                 date = datetime.strptime(date, '%Y:%m:%d %H:%M:%S')
@@ -50,10 +53,12 @@ def extract_date (file):
 def make_log (file, new_folder):
 
     now = datetime.now()
-    cwd = os.getcwd()
+    # After move file, gets a new directory
+    cwd = os.getcwd() 
     time = now.strftime("%Y-%m-%d at %H:%M:%S")
     
     with open("Logs.txt", "a") as logs:
+        # Append mode. Add new data to the end of the file, new log is automatically amended.
 
         logs.write('[{}]   " {} "   was moved to folder   "{}"   inside of   "{}"\n'
                    .format(time, file, new_folder[5:], new_folder[:4]))
@@ -75,7 +80,6 @@ def move_photo (file):
 
 def organize ():
 
-
     enable_extensions = Extensions.enable_extensions()
     photos = [
         filename 
@@ -94,4 +98,7 @@ def organize ():
 
     print('Success. {} files were moved and organized in {} seconds.'.format(moves, time))
 
-organize()
+recursive_search = False
+aprove = AvailableFiles()
+
+organize(recursive_search, aprove)
