@@ -107,3 +107,6 @@ Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Re
 [2021-02-14 at 19:54:30]   " noisy_grid_dark.png "   was moved to folder   "2018-02-28"   inside of   "2018"
 Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2018\2018-02-28
  
+[2021-02-14 at 20:05:52]   " noisy_grid_dark.png "   was moved to folder   "2018-02-28"   inside of   "2018"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2018\2018-02-28
+ 
