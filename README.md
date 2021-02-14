@@ -71,7 +71,7 @@ exif = {
           272: 'ATU-L21',                               <--- Camera Model
        }
 ```
-To evaluate a photograph it was necessary to use the ```key "36867"``` and to evaluate a download to the ```key "36868" ```.
+To evaluate a photograph it was necessary to use the ```key "36867"``` and to evaluate a download to use the ```key "36868" ```.
 
 ### Recursive Search
 
