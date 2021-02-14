@@ -1,8 +1,8 @@
 # Modules
 
 import RecursiveSearch
-import AvailableExtensions
-import AvailableFiles
+import Extensions
+import Files
 import os
 import shutil
 from datetime import datetime
@@ -86,13 +86,12 @@ def organize (recursive_search, aprove, copy_files):
         print(RecursiveSearch.search(pwd, aprove, copy_files))
 
     sleep(5)
-    enable_extensions = AvailableExtensions.enabled_extensions()
+    extensions = Extensions.enabled_extensions()
     
     photos = [
         filename 
         for filename in os.listdir('.')
-        if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in enable_extensions.keys() 
-        if enable_extensions[ext] == "enable")
+        if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in extensions
     ]
 
     moves = 0
