@@ -1,4 +1,6 @@
-
-# sudo ignore
-
+# Folders
 .__pycache__
+
+# Files
+ideia.py
+debugging_logs.txt
