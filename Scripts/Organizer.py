@@ -80,9 +80,11 @@ def move_photo (file):
 
 def organize (recursive_search, aprove):
 
-    if (recursive_search):
-        RecursiveSearch.move()
+    pwd = os.getcwd() 
+    if recursive_search:
+        print(RecursiveSearch.search(pwd, aprove))
 
+    sleep(5)
     enable_extensions = Extensions.enable_extensions()
     photos = [
         filename 
@@ -101,7 +103,7 @@ def organize (recursive_search, aprove):
 
     print('Success. {} files were moved and organized in {} seconds.'.format(moves, time))
 
-recursive_search = False
+recursive_search = True
 aprove = AvailableFiles.display()
 
 organize (recursive_search, aprove)
