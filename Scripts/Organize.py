@@ -104,7 +104,7 @@ def organize (recursive_search, extensions, copy_files):
 
 
 recursive_search = True
-move_without_copy = True
+copy = True
 extensions = Extensions.make_extensions()
 
-organize (recursive_search, extensions, move_without_copy)
+organize (recursive_search, extensions, copy)

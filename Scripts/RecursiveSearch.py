@@ -1,11 +1,14 @@
+import os
 import glob
 import shutil
 
 def search (main_directory, extensions, copy):
 
+    # Function that search all files inside folders in current directory. Create a list with subdirectories.
+    # Besides that, if copy is available, make a copy of all found files and take them to main directory. Otherwise, just transfer them.
+
     all_directories = []
-    test = ["png", "jpg"]
-    for extension in test:
+    for extension in extensions:
         all_directories = all_directories + glob.glob(main_directory + "/**/*.{}".format(extension), recursive = True)
 
     if copy:
@@ -32,5 +35,9 @@ def copy_and_move (directories, pwd):
 
 def clean_empty_folders ():
 
-    #Make a disaster!
-    return None
+    # Function that recursively clears all empty folders after transferring files to the main directory
+
+    if len(os.listdir(folder_path)) == 0: # Check if the folder is empty
+        shutil.rmtree(folder_path) # If so, delete it
+
+print([x[0] for x in os.walk(os.getcwd() )])
