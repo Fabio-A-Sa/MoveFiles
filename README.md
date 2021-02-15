@@ -1,4 +1,4 @@
-# Photo Organizer with Python and C++
+# MoveFiles for Windows and Linux
 
 <br/>
 <br/>
