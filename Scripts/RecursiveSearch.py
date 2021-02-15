@@ -25,7 +25,7 @@ def move_without_copy (directories, pwd):
     for file in directories:
         shutil.move(file, pwd) 
 
-    clean_empty_folders()
+    return clean_empty_folders (pwd)
 
 
 def copy_and_move (directories, pwd):
@@ -33,20 +33,25 @@ def copy_and_move (directories, pwd):
     # A function that moves all copy-files by recursive search.
 
     for file in directories:
-        shutil.copyfile(file, pwd)
+
+        try: 
+            shutil.copy(file, pwd)
+        except:
+            continue
     
-    clean_empty_folders()
+    return clean_empty_folders (pwd)
 
 
-def clean_empty_folders ():
+def clean_empty_folders (pwd):
 
-    # Function that recursively clears all empty folders after transferring files to the main directory
+    # Function that recursively cleans all empty folders after transferring files to the main directory
 
-    for dirpath, dirnames, files in os.walk('.'):
-        if not (files or dirnames):
-            os.rmdir(dirpath)
+    folders = sorted(list(os.walk(pwd))[1:], reverse=True)
+    for folder in folders:
 
-    return None
+        try:
+            os.rmdir(folder[0])
 
-
-print(Hello.py)
+        except OSError as error: 
+            print("Directory '{}' can not be removed".format(folder[0])) 
+            continue
