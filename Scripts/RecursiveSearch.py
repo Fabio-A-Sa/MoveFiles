@@ -47,3 +47,6 @@ def clean_empty_folders ():
             os.rmdir(dirpath)
 
     return None
+
+
+print(Hello.py)
