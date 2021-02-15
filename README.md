@@ -15,9 +15,9 @@
 You need to install the Python extension and all dependences:
 
 ```
-Python 3.X <-- Python3
-pip install Pillow <-- Installing a Python Imaging Library
-pip install pyinstaller <-- For utility task in Windows
+Python 3.X                              <-- Python3
+pip install Pillow                      <-- Installing a Python Imaging Library
+pip install pyinstaller                 <-- For utility task in Windows
 ```
 
 
@@ -26,7 +26,7 @@ pip install pyinstaller <-- For utility task in Windows
 To run a script, in Linux or Windows, call the script inside a folder with photos using terminal.
 
 ```
-git clone https://github.com/Fabio-A-Sa/Photo-Organizer.git <-- To add files in your own local repository
+git clone https://github.com/Fabio-A-Sa/Photo-Organizer.git
 cd .\Photo-Organizer\Scripts\
 python3 organizer.py
 ```
