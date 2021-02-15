@@ -1,5 +1,6 @@
 import os
 import glob
+import sys
 import shutil
 
 def search (main_directory, extensions, copy):
@@ -19,6 +20,8 @@ def search (main_directory, extensions, copy):
 
 def move_without_copy (directories, pwd):
 
+    # A function that moves all files by recursive search.
+
     for file in directories:
         shutil.move(file, pwd) 
 
@@ -27,9 +30,11 @@ def move_without_copy (directories, pwd):
 
 def copy_and_move (directories, pwd):
 
+    # A function that moves all copy-files by recursive search.
+
     for file in directories:
-        shutil.move(file, pwd)
-    # Add copy!!!
+        shutil.copyfile(file, pwd)
+    
     clean_empty_folders()
 
 
@@ -37,7 +42,8 @@ def clean_empty_folders ():
 
     # Function that recursively clears all empty folders after transferring files to the main directory
 
-    if len(os.listdir(folder_path)) == 0: # Check if the folder is empty
-        shutil.rmtree(folder_path) # If so, delete it
+    for dirpath, dirnames, files in os.walk('.'):
+        if not (files or dirnames):
+            os.rmdir(dirpath)
 
-print([x[0] for x in os.walk(os.getcwd() )])
+    return None
