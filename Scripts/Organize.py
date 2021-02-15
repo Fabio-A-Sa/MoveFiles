@@ -83,7 +83,7 @@ def organize (recursive_search, extensions, copy_files):
     pwd = os.getcwd() 
 
     if recursive_search:
-        print(RecursiveSearch.search(pwd, aprove, copy_files))
+        print(RecursiveSearch.search(pwd, extensions, copy_files))
 
     sleep(5)
     
