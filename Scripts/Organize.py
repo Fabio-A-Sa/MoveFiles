@@ -67,7 +67,7 @@ def make_log (file, new_folder):
         logs.write(" \n")
 
 
-def move_photo (file):
+def move (file):
     
     new_folder = make_new_directory (file)
 
@@ -78,31 +78,37 @@ def move_photo (file):
     shutil.move(file, new_folder + '/' + file)
 
 
-def organize (recursive_search, extensions, copy_files):
+def organize (recursive_search, extensions, copy):
 
+    # Current directory
     pwd = os.getcwd() 
 
     if recursive_search:
-        print(RecursiveSearch.search(pwd, extensions, copy_files))
+        RecursiveSearch.search(pwd, extensions, copy)
     
-    photos = [
-        filename 
-        for filename in os.listdir('.')
-        if os.path.isfile(filename) and any(filename.lower().endswith('.' + ext.lower()) for ext in extensions)]
+    # All files ending possible in extensions
+    files = [
+                filename 
+                for filename in os.listdir('.')
+                if os.path.isfile(filename) and 
+                any(filename.lower().endswith('.' + ext.lower()) for ext in extensions)
+            ]
 
     moves = 0
     t0 = perf_counter()
-    for filename in photos:
-        move_photo(filename)
+
+    for file in files:
+        move (file)
         moves += 1
+
     t1 = perf_counter()
     time = round(t1 - t0, 2)
 
     print('Success. {} files were moved and organized in {} seconds.'.format(moves, time))
 
 
-recursive_search = True
+recursiveSearch = True
 copy = False
 extensions = Extensions.make_extensions()
 
-organize (recursive_search, extensions, copy)
+organize (recursiveSearch, extensions, copy)
