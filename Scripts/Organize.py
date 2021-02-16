@@ -16,14 +16,17 @@ def make_new_directory (file):
 
     # Function that makes a folder name, based on exif data, 
     # and a new directory inside a main year
-    if file[file.find('.'):] in ['jpg', 'png', 'jpeg']:
+    
+    if file[file.find('.')+1:] in ['jpg', 'png', 'jpeg']:
+
         date = extract_date (file)
         new_directory = date.strftime('%Y') + '/' + date.strftime('%Y-%m-%d')
         
     else:
-        new_directory = "teste"
-        date = extract_date (file)
+        
+        date = str(extract_date (file))
         print(date)
+        new_directory = "{}/{}".format(date[:4], date[:10])
     
     return new_directory
 
@@ -34,7 +37,7 @@ def extract_date (file):
     # Converts in future folder-structure date
 
     date = "unknown"
-    print(file[file.find('.')-1:])
+
     if file[file.find('.')+1:].lower() in ['jpg', 'png', 'jpeg']:
 
         # Its an image --> Use Pillow library
@@ -58,15 +61,14 @@ def extract_date (file):
             date = datetime.fromtimestamp(os.path.getmtime(file))
 
     else:
-        # Its all others files --> Use os.path library
+        # Its another file --> Use os.path library
 
         try:
-            exif = ctime(os.path.getctime(file))
+            date = datetime.fromtimestamp(os.path.getctime(file))
 
         except:
-            exif = ctime(os.path.getmtime(file))
+            date = datetime.fromtimestamp(os.path.getmtime(file))
 
-        date = "hello"        
         
     return date
 
