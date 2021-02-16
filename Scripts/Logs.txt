@@ -664,3 +664,33 @@ Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Re
 [2021-02-16 at 12:53:54]   " something.txt "   was moved to folder   "2021-02-16"   inside of   "2021"
 Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-16
  
+[2021-02-16 at 13:09:30]   " draft.txt "   was moved to folder   "2021-02-16"   inside of   "2021"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-16
+ 
+[2021-02-16 at 13:09:30]   " IMG_20201016_154455.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+[2021-02-16 at 13:09:30]   " IMG_20201016_154457.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+[2021-02-16 at 13:09:30]   " IMG_20201016_154458.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+[2021-02-16 at 13:09:30]   " something.txt "   was moved to folder   "2021-02-16"   inside of   "2021"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-16
+ 
+[2021-02-16 at 13:10:26]   " draft.txt "   was moved to folder   "2021-02-16"   inside of   "2021"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-16
+ 
+[2021-02-16 at 13:10:26]   " IMG_20201016_154455.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+[2021-02-16 at 13:10:26]   " IMG_20201016_154457.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+[2021-02-16 at 13:10:26]   " IMG_20201016_154458.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+[2021-02-16 at 13:10:26]   " something.txt "   was moved to folder   "2021-02-16"   inside of   "2021"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2021\2021-02-16
+ 

@@ -57,17 +57,20 @@ def extract_date (file):
                     date = datetime.strptime(date, '%Y:%m:%d %H:%M:%S')
 
         if date == "unknown":
-            # Date has not changed, use the modified date by os.path.getmtime
+            # Date has not changed, use the modified date by os.path.getm(odification)time
             date = datetime.fromtimestamp(os.path.getmtime(file))
 
     else:
         # Its another file --> Use os.path library
 
         try:
+            # Modification date
+            date = datetime.fromtimestamp(os.path.getmtime(file))
             date = datetime.fromtimestamp(os.path.getctime(file))
 
         except:
-            date = datetime.fromtimestamp(os.path.getmtime(file))
+            # Creation date
+            date = datetime.fromtimestamp(os.path.getctime(file))
 
         
     return date
@@ -86,13 +89,15 @@ def make_log (file, new_folder):
         logs.write('[{}]   " {} "   was moved to folder   "{}"   inside of   "{}"\n'
                    .format(time, file, new_folder[5:], new_folder[:4]))
         
-        logs.write('Current directory: {}\{}\{}\n'.format(pwd, new_folder[:4], new_folder[5:]))
+        logs.write('Current directory: {}\{}\{}\n'
+                    .format(pwd, new_folder[:4], new_folder[5:]))
+
         logs.write(" \n")
 
 
 def move (file):
     
-    if file != "Logs.txt":
+    if file != "Logs.txt": # <-- Logs file can't be moved
 
         new_folder = make_new_directory (file)
     
@@ -111,6 +116,7 @@ def organize (recursive_search, extensions, copy):
 
     if recursive_search:
         RecursiveSearch.search(pwd, extensions, copy)
+        sleep(5)
     
     # All files ending possible in extensions
     files = [
