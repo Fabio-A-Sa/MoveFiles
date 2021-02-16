@@ -37,7 +37,7 @@ Besides that, the fact that I am responsible for dozens of websites spread acros
 <br/>
 
 
-# Fundamentals
+# Fundamentals and features
 
 ### Metadata and exif
 
@@ -70,20 +70,32 @@ exif = {
           272: 'ATU-L21',                               <--- Camera Model
        }
 ```
-To evaluate a photograph it was necessary to use the ```key "36867"``` and to evaluate a download ```key "36868" ```. To evaluate other types of files:
+To evaluate a photograph it was necessary to use the ```key "36867"``` and to evaluate a download ```key "36868" ```. <br/>
+To evaluate other types of files:
 
 ```
 import os
 from datetime import datetime
 
-date = datetime.fromtimestamp(os.path.getmtime(file)) <-- Modify date
-date = datetime.fromtimestamp(os.path.getctime(file)) <-- Create date
+date = datetime.fromtimestamp(os.path.getmtime(file))    <-- Modification date
+date = datetime.fromtimestamp(os.path.getctime(file))    <-- Creation date
 ```
 
 ### Recursive Search
 
-teste
+By default this option is active but can be easily changed either on the flag or using the manualSettings option.
+```
+import glob
+import shutil
 
+all_directories = glob.glob( main_directory + "/**/*.{}".format(extension), recursive = True )
+for file in all_directories:
+    shutil.move(file, pwd)
+```
+
+### Clean empty folders
+
+By default
 
 ### Logs
 
