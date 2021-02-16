@@ -12,7 +12,6 @@ You need to install the Python extension and all dependences:
 ```
 Python 3.X                              <-- Python3
 pip install Pillow                      <-- Installing a Python Imaging Library
-pip install pyinstaller                 <-- For utility task in Windows
 ```
 
 
@@ -21,9 +20,9 @@ pip install pyinstaller                 <-- For utility task in Windows
 To run a script, in Linux or Windows, call the script inside a folder with photos using terminal.
 
 ```
-git clone https://github.com/Fabio-A-Sa/Photo-Organizer.git
-cd .\Photo-Organizer\Scripts\
-python3 organizer.py
+git clone https://github.com/Fabio-A-Sa/MoveFiles.git
+cd .\MoveFiles\Scripts\
+python3 Organize.py
 ```
 <p align="center">
   <img src="./Images/Linux.png">
@@ -33,7 +32,7 @@ python3 organizer.py
 ## Motivation for script development
 
 Since I am involved in an activity that implies the manipulation of hundreds of photos and other files, the [Geocaching](https://www.geocaching.com/play/search), I needed to implement a Python script to streamline the photo selection and sharing process. Therefore, uploading to my gallery on the official hobby website, which already has more than 25,000 photos, becomes faster. <br/>
-Besides that, the fact that I am responsible for dozens of websites spread across Portugal and Spain, which require HTML, JavaScript and CSS, made this project increased to the ``.html`` ``.js`` and ``.css`` extensions in addition to those already implemented ``.jpg`` ``.png`` ``.jpeg`` ``.py`` ``.cpp``  and  ``.txt`` files. 
+Besides that, the fact that I am responsible for dozens of websites spread across Portugal and Spain, which require HTML, JavaScript and CSS, made this project increased to the ``.html`` ``.js`` and ``.css`` extensions in addition to those already implemented ``.jpg`` ``.png`` ``.jpeg`` ``.py`` ``.cpp``  and  ``.txt`` files. Manually, the user can add other extensions.
 
 <br/>
 
@@ -42,7 +41,7 @@ Besides that, the fact that I am responsible for dozens of websites spread acros
 
 ### Metadata and exif
 
-A file (downloading an image from the internet or taking a photo with your phone) always contains important information about its creation - the metadata - which can be accessed through the Python Pillow (PIL) library.
+An image (downloading from the internet or taking photo with your phone) always contains important information about its creation - the metadata - which can be accessed through the Python Pillow (PIL) library.
 
 ```
 from PIL import Image
@@ -71,7 +70,15 @@ exif = {
           272: 'ATU-L21',                               <--- Camera Model
        }
 ```
-To evaluate a photograph it was necessary to use the ```key "36867"``` and to evaluate a download to use the ```key "36868" ```.
+To evaluate a photograph it was necessary to use the ```key "36867"``` and to evaluate a download ```key "36868" ```. To evaluate other types of files:
+
+```
+import os
+from datetime import datetime
+
+date = datetime.fromtimestamp(os.path.getmtime(file)) <-- Modify date
+date = datetime.fromtimestamp(os.path.getctime(file)) <-- Create date
+```
 
 ### Recursive Search
 
