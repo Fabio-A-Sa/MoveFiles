@@ -16,9 +16,14 @@ def make_new_directory (file):
 
     # Function that makes a folder name, based on exif data, 
     # and a new directory inside a main year
-
-    date = extract_date (file)
-    new_directory = date.strftime('%Y') + '/' + date.strftime('%Y-%m-%d')
+    if file[file.find('.'):] in ['jpg', 'png', 'jpeg']:
+        date = extract_date (file)
+        new_directory = date.strftime('%Y') + '/' + date.strftime('%Y-%m-%d')
+        
+    else:
+        new_directory = "teste"
+        date = extract_date (file)
+        print(date)
     
     return new_directory
 
@@ -29,8 +34,8 @@ def extract_date (file):
     # Converts in future folder-structure date
 
     date = "unknown"
-
-    if file[file.find('.'):] in ['jpg', 'png', 'jpeg']:
+    print(file[file.find('.')-1:])
+    if file[file.find('.')+1:].lower() in ['jpg', 'png', 'jpeg']:
 
         # Its an image --> Use Pillow library
         photo = Image.open(file)
@@ -56,10 +61,13 @@ def extract_date (file):
         # Its all others files --> Use os.path library
 
         try:
-            date = time.ctime(os.path.getctime(file))
-        except
-            date = time.ctime(os.path.getmtime(file))
+            exif = ctime(os.path.getctime(file))
 
+        except:
+            exif = ctime(os.path.getmtime(file))
+
+        date = "hello"        
+        
     return date
 
 
@@ -82,14 +90,16 @@ def make_log (file, new_folder):
 
 def move (file):
     
-    new_folder = make_new_directory (file)
+    if file != "Logs.txt":
 
-    # If there is no directory with same name, create it
-    if not os.path.exists(new_folder):
-        os.makedirs(new_folder)
+        new_folder = make_new_directory (file)
+    
+        # If there is no directory with same name, create it
+        if not os.path.exists(new_folder):
+            os.makedirs(new_folder)
         
-    make_log (file, new_folder)   
-    shutil.move(file, new_folder + '/' + file)
+        make_log (file, new_folder)   
+        shutil.move(file, new_folder + '/' + file)
 
 
 def organize (recursive_search, extensions, copy):
@@ -107,7 +117,6 @@ def organize (recursive_search, extensions, copy):
                 if os.path.isfile(filename) and 
                 any(filename.lower().endswith('.' + ext.lower()) for ext in extensions)
             ]
-    print(files)
 
     moves = 0
     t0 = perf_counter()
