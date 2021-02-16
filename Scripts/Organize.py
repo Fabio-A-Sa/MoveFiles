@@ -84,8 +84,6 @@ def organize (recursive_search, extensions, copy_files):
 
     if recursive_search:
         print(RecursiveSearch.search(pwd, extensions, copy_files))
-
-    sleep(5)
     
     photos = [
         filename 

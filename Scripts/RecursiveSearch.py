@@ -22,10 +22,13 @@ def move_without_copy (directories, pwd):
     # A function that moves all files by recursive search.
 
     for file in directories:
-        shutil.move(file, pwd) 
+        try:
+            shutil.move(file, pwd)
+        except:
+            continue 
 
     return clean_empty_folders (pwd)
-    
+
 
 def copy_and_move (directories, pwd):
 
