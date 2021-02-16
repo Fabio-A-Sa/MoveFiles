@@ -12,3 +12,5 @@ Current directory: C:\Users\farau\Desktop\FEUP\2021\2021-02-07
  
 [2021-02-16 at 14:07:08]   " something.pptx "   was moved to folder   "2021-02-15"   inside of   "2021"
 Current directory: C:\Users\farau\Desktop\FEUP\2021\2021-02-15
+
+

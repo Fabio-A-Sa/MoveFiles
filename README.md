@@ -111,11 +111,16 @@ for folder in folders:
 
 ### Backup files
 
-By default
+In order not to interfere with the original organization of the directory, this feature creates and moves a copy of all files within the folders to the main directory. These are then pushed into the final folders. This function is disabled by default.
 
 ### Logs
 
-teste
+This feature allows the visualization of all paths traced by the script. Records, in a notepad, the time the file was moved, the name, type and current location.
+
+<p align="center">
+  <img src="./Images/Notepad.png">
+</p>
+
 
 <br/>
 
