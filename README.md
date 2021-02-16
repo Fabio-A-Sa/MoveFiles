@@ -1,14 +1,9 @@
 # MoveFiles for Windows and Linux
 
-<br/>
-<br/>
-
 <p align="center">
   <img src="./Images/Wpp.png">
 </p>
 
-<br/>
-<br/>
 
 ## Prerequisites
 
