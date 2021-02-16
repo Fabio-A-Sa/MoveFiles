@@ -4,6 +4,7 @@ import RecursiveSearch
 import Extensions
 import Files
 import os
+import pathlib
 import shutil
 from datetime import datetime
 from PIL import Image
@@ -71,6 +72,7 @@ def move (file):
     
     new_folder = make_new_directory (file)
 
+    # If there is no directory with same name, create it
     if not os.path.exists(new_folder):
         os.makedirs(new_folder)
         
@@ -93,6 +95,7 @@ def organize (recursive_search, extensions, copy):
                 if os.path.isfile(filename) and 
                 any(filename.lower().endswith('.' + ext.lower()) for ext in extensions)
             ]
+    print(files)
 
     moves = 0
     t0 = perf_counter()

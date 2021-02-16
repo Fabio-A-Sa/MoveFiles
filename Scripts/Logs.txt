@@ -430,3 +430,12 @@ Current directory: C:\Users\farau\Dropbox\My PC (FÃ¡bio-MateBook)\Desktop\FEUP\R
 [2021-02-16 at 11:27:00]   " IMG_20201018_125703.jpg "   was moved to folder   "2020-10-18"   inside of   "2020"
 Current directory: C:\Users\farau\Dropbox\My PC (FÃ¡bio-MateBook)\Desktop\FEUP\RepositÃ³rios\Photo-Organizer\Scripts\2020\2020-10-18
  
+[2021-02-16 at 12:08:32]   " IMG_20201016_154455.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+[2021-02-16 at 12:08:32]   " IMG_20201016_154457.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
+[2021-02-16 at 12:08:33]   " IMG_20201016_154458.jpg "   was moved to folder   "2020-10-16"   inside of   "2020"
+Current directory: C:\Users\farau\Dropbox\My PC (Fábio-MateBook)\Desktop\FEUP\Repositórios\Photo-Organizer\Scripts\2020\2020-10-16
+ 
