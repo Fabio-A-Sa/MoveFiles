@@ -83,17 +83,33 @@ date = datetime.fromtimestamp(os.path.getctime(file))    <-- Creation date
 
 ### Recursive Search
 
-By default this option is active but can be easily changed either on the flag or using the manualSettings option.
+Often the files to be sorted are not only in the main directory but inside folders. Recursively, this method allows you to search the files for all folders and subfolders in the directory and pull them into the main directory. It is as if all the files containing the desired extensions jump out of the box. These are then pushed into the final folders. By default this option is active but can be easily changed either on the flag or using the manualSettings option.
 ```
+import os
 import glob
 import shutil
 
 all_directories = glob.glob( main_directory + "/**/*.{}".format(extension), recursive = True )
 for file in all_directories:
-    shutil.move(file, pwd)
+    shutil.move(file, os.getcwd())
 ```
 
 ### Clean empty folders
+
+When moving files using recursion, many of the folders may be empty. Thus, in order to remove the trash from the directory, a function is also recursively applied that eliminates all unused folders.
+
+```
+folders = sorted(list(os.walk(pwd))[1:], reverse = True)
+for folder in folders:
+
+    try:
+        os.rmdir(folder[0])
+
+    except OSError as error: 
+        print("Directory '{}' can not be removed".format(folder[0])) 
+```
+
+### Backup files
 
 By default
 
