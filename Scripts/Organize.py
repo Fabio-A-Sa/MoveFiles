@@ -4,11 +4,11 @@ import RecursiveSearch
 import Extensions
 import Files
 import os
-import pathlib
+import os.path
 import shutil
 from datetime import datetime
 from PIL import Image
-from time import sleep, perf_counter
+from time import sleep, perf_counter, ctime
 
 # Functions
 
@@ -29,24 +29,36 @@ def extract_date (file):
     # Converts in future folder-structure date
 
     date = "unknown"
-    photo = Image.open(file)
 
-    if hasattr(photo, '_getexif'):
-        # If it is possible to extract exit data
-        
-        info = photo._getexif()
-        date_id = 36867
-        
-        if info != None:
-            # If exif contains data to search
+    if file[file.find('.'):] in ['jpg', 'png', 'jpeg']:
 
-            if date_id in info.keys():
-                date = info[date_id]
-                date = datetime.strptime(date, '%Y:%m:%d %H:%M:%S')
+        # Its an image --> Use Pillow library
+        photo = Image.open(file)
 
-    if date == "unknown":
-        # Date has not changed, use the modified date by os.path.getmtime
-        date = datetime.fromtimestamp(os.path.getmtime(file))
+        if hasattr(photo, '_getexif'):
+            # If it is possible to extract exit data
+            
+            info = photo._getexif()
+            date_id = 36867
+            
+            if info != None:
+                # If exif contains data to search
+
+                if date_id in info.keys():
+                    date = info[date_id]
+                    date = datetime.strptime(date, '%Y:%m:%d %H:%M:%S')
+
+        if date == "unknown":
+            # Date has not changed, use the modified date by os.path.getmtime
+            date = datetime.fromtimestamp(os.path.getmtime(file))
+
+    else:
+        # Its all others files --> Use os.path library
+
+        try:
+            date = time.ctime(os.path.getctime(file))
+        except
+            date = time.ctime(os.path.getmtime(file))
 
     return date
 

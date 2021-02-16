@@ -53,6 +53,7 @@ def clean_empty_folders (pwd):
 
         try:
             os.rmdir(folder[0])
+            continue
 
         except OSError as error: 
             print("Directory '{}' can not be removed".format(folder[0])) 
