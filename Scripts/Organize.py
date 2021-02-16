@@ -1,11 +1,11 @@
 # Modules
 
 import RecursiveSearch
-import ManualSearch
+import ManualSettings
 import Extensions
 import Files
+
 import os
-import os.path
 import shutil
 from datetime import datetime
 from PIL import Image
@@ -108,21 +108,26 @@ def move (file):
         shutil.move(file, new_folder + '/' + file)
 
 
-def organize (recursive_search, extensions, copy):
+def organize (recursiveSearch, manualSettings, copy, extensions):
 
     # Current directory
     pwd = os.getcwd() 
-
-    if recursive_search:
-        RecursiveSearch.search(pwd, extensions, copy)
+    
+    if manualSettings:
+        extensions, copy, recursiveSearch = ManualSettings.settings()
         sleep(5)
     
+    if recursiveSearch:
+        RecursiveSearch.search(pwd, extensions, copy)
+        sleep(5)
+
     # All files ending possible in extensions
     files = [
                 filename 
                 for filename in os.listdir('.')
-                if os.path.isfile(filename) and 
-                any(filename.lower().endswith('.' + ext.lower()) for ext in extensions)
+                if os.path.isfile(filename) 
+                and any(filename.lower().endswith('.' + ext.lower())
+                for ext in extensions)
             ]
 
     moves = 0
@@ -138,8 +143,11 @@ def organize (recursive_search, extensions, copy):
     print('Success. {} files were moved and organized in {} seconds.'.format(moves, time))
 
 
+# Default options:
 recursiveSearch = True
+manualSettings = False
 copy = False
 extensions = Extensions.make_extensions()
 
-organize (recursiveSearch, extensions, copy)
+organize (recursiveSearch, manualSettings, copy, extensions)
+

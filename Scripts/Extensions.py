@@ -16,7 +16,7 @@ all_extensions =    {
                     "jpg" : "enabled" ,
                     'png' : "enabled" ,
                     'jpeg': "enabled" ,
-                    'txt' : "enabled" ,
+                    'txt' : "disabled" ,
                     'html' : 'disabled' ,
                     'css' : 'disabled' ,
                     'js' : 'disabled' ,

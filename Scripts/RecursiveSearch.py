@@ -48,7 +48,7 @@ def clean_empty_folders (pwd):
 
     # Function that recursively cleans all empty folders after transferring files to the main directory
 
-    folders = sorted(list(os.walk(pwd))[1:], reverse=True)
+    folders = sorted(list(os.walk(pwd))[1:], reverse = True)
     for folder in folders:
 
         try:
@@ -58,3 +58,4 @@ def clean_empty_folders (pwd):
         except OSError as error: 
             print("Directory '{}' can not be removed".format(folder[0])) 
             continue
+

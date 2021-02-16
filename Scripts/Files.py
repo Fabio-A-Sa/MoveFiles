@@ -3,7 +3,7 @@
 available_files =   {
 
                     "photos": "enabled", 
-                    "text" : "enabled",  
+                    "text" : "disabled",  
                     "web" : "disabled",      
                     "code" : "disabled",    
                     
