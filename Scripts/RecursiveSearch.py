@@ -1,6 +1,5 @@
 import os
 import glob
-import sys
 import shutil
 
 def search (main_directory, extensions, copy):
@@ -10,7 +9,7 @@ def search (main_directory, extensions, copy):
 
     all_directories = []
     for extension in extensions:
-        all_directories = all_directories + glob.glob(main_directory + "/**/*.{}".format(extension), recursive = True)
+        all_directories = all_directories + glob.glob( main_directory + "/**/*.{}".format(extension), recursive = True )
 
     if copy:
         return copy_and_move (all_directories, main_directory)
@@ -26,7 +25,7 @@ def move_without_copy (directories, pwd):
         shutil.move(file, pwd) 
 
     return clean_empty_folders (pwd)
-
+    
 
 def copy_and_move (directories, pwd):
 
