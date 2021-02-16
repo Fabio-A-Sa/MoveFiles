@@ -1,6 +1,7 @@
 # Modules
 
 import RecursiveSearch
+import ManualSearch
 import Extensions
 import Files
 import os
@@ -61,18 +62,16 @@ def extract_date (file):
             date = datetime.fromtimestamp(os.path.getmtime(file))
 
     else:
-        # Its another file --> Use os.path library
+        # Its another file (txt, py...) --> Use os.path library
 
         try:
             # Modification date
             date = datetime.fromtimestamp(os.path.getmtime(file))
-            date = datetime.fromtimestamp(os.path.getctime(file))
 
         except:
             # Creation date
             date = datetime.fromtimestamp(os.path.getctime(file))
 
-        
     return date
 
 
