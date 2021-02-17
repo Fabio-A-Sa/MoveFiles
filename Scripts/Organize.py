@@ -115,11 +115,11 @@ def organize (recursiveSearch, manualSettings, copy, extensions):
     
     if manualSettings:
         extensions, copy, recursiveSearch = ManualSettings.settings()
-        sleep(5)
+        sleep(2)
     
     if recursiveSearch:
         RecursiveSearch.search(pwd, extensions, copy)
-        sleep(5)
+        sleep(2)
 
     # All files ending possible in extensions
     files = [

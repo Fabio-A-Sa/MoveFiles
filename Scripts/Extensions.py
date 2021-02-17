@@ -39,6 +39,3 @@ def make_extensions ():
                     all_ext.append(extension)
 
     return all_ext
-
-
-print(make_extensions())

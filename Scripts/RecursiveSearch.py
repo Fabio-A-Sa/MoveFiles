@@ -56,6 +56,7 @@ def clean_empty_folders (pwd):
             continue
 
         except OSError as error: 
-            print("Directory '{}' can not be removed".format(folder[0])) 
+            # Identifies folders that cannot be removed, but is not required to appear in the Terminal
+            # print("Directory '{}' can not be removed".format(folder[0]))
             continue
 
