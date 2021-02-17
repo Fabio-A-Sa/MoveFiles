@@ -118,7 +118,7 @@ In order not to interfere with the original organization of the directory, this 
 This feature allows the visualization of all paths traced by the script. Records, in a notepad, the time the file was moved, the name, type and current location.
 
 <p align="center">
-  <img src="./Images/Notepad.PNG">
+  <img src="./Images/Note.png">
 </p>
 
 
