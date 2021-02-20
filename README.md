@@ -1,7 +1,7 @@
 # MoveFiles for Windows and Linux
 
 <p align="center">
-  <img src="./Images/Wpp.png">
+  <img src="./Images/Wpp.png" title="Header">
 </p>
 
 
@@ -25,7 +25,7 @@ cd .\MoveFiles\Scripts\
 python3 Organize.py
 ```
 <p align="center">
-  <img src="./Images/Linux.png">
+  <img src="./Images/Linux.png" title="Terminal">
 </p>
 
 
@@ -118,7 +118,7 @@ In order not to interfere with the original organization of the directory, this 
 This feature allows the visualization of all paths traced by the script. Records, in a notepad, the time the file was moved, the name, type and current location.
 
 <p align="center">
-  <img src="./Images/Note.png">
+  <img src="./Images/Note.png" title="Notepad" >
 </p>
 
 
