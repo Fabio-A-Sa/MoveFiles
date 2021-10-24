@@ -9,7 +9,7 @@
 
 You need to install the Python extension and all dependences:
 
-```
+```bash
 Python 3.X                              <-- Python3
 pip install Pillow                      <-- Installing a Python Imaging Library
 ```
@@ -19,7 +19,7 @@ pip install Pillow                      <-- Installing a Python Imaging Library
 
 To run a script, in Linux or Windows, call the script inside a folder with photos using terminal.
 
-```
+```bash
 git clone https://github.com/Fabio-A-Sa/MoveFiles.git
 cd .\MoveFiles\Scripts\
 python3 Organize.py
@@ -43,7 +43,7 @@ Besides that, the fact that I am responsible for dozens of websites spread acros
 
 An image (downloading from the internet or taking photo with your phone) always contains important information about its creation - the metadata - which can be accessed through the Python Pillow (PIL) library.
 
-```
+```python
 from PIL import Image
 
 photo = Image.open("elephant.png")
@@ -73,7 +73,7 @@ exif = {
 To evaluate a photograph it was necessary to use the ```key "36867"``` and to evaluate a download ```key "36868" ```. <br/>
 To evaluate other types of files:
 
-```
+```python
 import os
 from datetime import datetime
 
@@ -84,7 +84,7 @@ date = datetime.fromtimestamp(os.path.getctime(file))    <-- Creation date
 ### Recursive Search
 
 Often the files to be sorted are not only in the main directory but inside folders. Recursively, this method allows you to search the files for all folders and subfolders in the directory and pull them into the main directory. It is as if all the files containing the desired extensions jump out of the box. These are then pushed into the final folders. By default this option is active but can be easily changed either on the flag or using the manualSettings option.
-```
+```python
 import os
 import glob
 import shutil
@@ -98,7 +98,7 @@ for file in all_directories:
 
 When moving files using recursion, many of the folders may be empty. Thus, in order to remove the trash from the directory, a function is also recursively applied that eliminates all unused folders.
 
-```
+```python
 folders = sorted(list(os.walk(pwd))[1:], reverse = True)
 for folder in folders:
 
